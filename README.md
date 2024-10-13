@@ -35,7 +35,7 @@ This project is a simple web application that utilizes the OpenAI API to generat
 
     npm start
  
-2. Open your web browser and navigate to http://localhost:3000.
+2.Open your web browser and navigate to http://localhost:3000.
 
 3.Enter a description of what you want to see in the input field and click the "Generate" button.
 
