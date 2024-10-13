@@ -22,11 +22,11 @@ This project is a simple web application that utilizes the OpenAI API to generat
 
 2. Navigate to the project directory:
 
-       cd REPO_NAME
+       cd ai-image-generator
 
 3. Install dependencies:
 
-       =npm install
+       npm install
 
 ## Usage
 
