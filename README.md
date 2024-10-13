@@ -81,7 +81,5 @@ This project is licensed under the MIT License.
 ## Contact
 If you have any questions or feedback, feel free to reach out:
 
-[email](mailto:error.salah59@gmail.com).
-
-VC: [Your VC Link](https://salahcv.site/)
-
+ Email: [error.salah59@gmail.com](mailto:error.salah59@gmail.com)
+- VC: [Your VC Link](https://salahcv.site/)
