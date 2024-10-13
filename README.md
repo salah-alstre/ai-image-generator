@@ -56,4 +56,4 @@ This project is a simple web application that utilizes the OpenAI API to generat
   
 ## Screenshots
 
-![Image]()
+![Image](https://github.com/salah-alstre/ai-image-generator/blob/main/src/Components/Assets/ai-image.jpg?raw=true)
