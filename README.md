@@ -26,8 +26,34 @@ This project is a simple web application that utilizes the OpenAI API to generat
 
 3. Install dependencies:
 
-       npm install
+       =npm install
 
-4. Running the Server
+## Usage
 
-       npm start
+1.Start the application:
+
+
+    npm start
+ 
+2. Open your web browser and navigate to http://localhost:3000.
+
+3.Enter a description of what you want to see in the input field and click the "Generate" button.
+
+4.The application will display the generated image based on your description.
+
+
+## How It Works
+- The application sends a POST request to the OpenAI API endpoint with the provided description.
+- It processes the response and updates the UI with the generated image.
+- Error handling is implemented to manage issues such as invalid API keys or network errors.
+
+  
+## Technologies Used
+- React: For building the user interface.
+- OpenAI API: For image generation.
+- CSS: For styling the application.
+
+  
+## Screenshots
+
+![Image]()
